@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591840504007",
+    "project_id": "library-love",
+    "storage_bucket": "library-love.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591840504007:android:b5df75b9760adad47736e2",
+        "android_client_info": {
+          "package_name": "com.example.library_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591840504007-4a24j5o5p358t0dd3832novadfqireg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9-cKHxdr5dJPIiZiTdh-0h-1zxO2hPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591840504007-4a24j5o5p358t0dd3832novadfqireg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
