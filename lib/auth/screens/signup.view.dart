@@ -5,7 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sociogram/auth/bloc/auth_bloc.dart';
 // import 'package:library_love/home/database/bloc/database_bloc.dart';
 import 'package:sociogram/home/screens/home.dart';
-import 'package:sociogram/models/user_model.dart';
+import 'package:sociogram/data/model/user_model.dart';
 
 import '../../home/database/auth_data/database_bloc.dart';
 import '../widgets/signup_form.dart';

@@ -2,7 +2,7 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:sociogram/home/database/user_rep.dart';
 
-import '../../../models/user_model.dart';
+import '../../../data/model/user_model.dart';
 
 part 'database_event.dart';
 part 'database_state.dart';

@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:sociogram/models/post_model.dart';
+import 'package:sociogram/data/model/post_model.dart';
 
 class PostRepository {
   final FirebaseFirestore _db = FirebaseFirestore.instance;

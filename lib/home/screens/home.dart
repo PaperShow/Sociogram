@@ -29,7 +29,7 @@ class HomeView extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 20),
                 child: Row(
                   children: [
-                    const Text('Library Love'),
+                    const Text('Sociogram'),
                     const Spacer(),
                     Container(
                       padding:
@@ -56,6 +56,9 @@ class HomeView extends StatelessWidget {
                   ],
                 ),
               ),
+              SizedBox(height: 10.h),
+
+              //post
               Container(
                 height: 250.h,
                 color: Colors.amber,
